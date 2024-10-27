@@ -9,7 +9,7 @@ This data contains 30 distinct nodes, with the following information in each col
 | Column 4 | Appearance time |
 | Column 5 | Service time (in seconds) |
 
-
+Node 0 represent the depot or the disposal site.
 The total time or time budget is calculated based on the current schedule, which is defined as:
 
 $`(8 hours × 3600)/1000`$ 
